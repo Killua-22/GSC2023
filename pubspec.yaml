@@ -74,6 +74,13 @@ flutter:
     - assets/images/events.jpg
     - assets/images/blog.jpg
     - assets/images/logo.png
+    - assets/images/student.jpg
+    - assets/images/couns_1.jpg
+    - assets/images/couns_2.jpg
+    - assets/images/couns_3.jpg
+    - assets/images/couns_4.jpg
+    - assets/images/couns_5.jpg
+    - assets/images/couns_6.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
